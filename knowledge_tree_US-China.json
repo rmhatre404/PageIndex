@@ -1,0 +1,60 @@
+[
+    {
+        "node_id": "001",
+        "title": "Introduction to U.S.-China Economic Relations",
+        "summary": "Overview of the economic relationship between the U.S. and China, including trade volumes and key sectors.",
+        "page_index": 1,
+        "text": "The U.S.-China economic relationship is one of the most important bilateral relationships in the world. Trade between the two countries reached $690 billion in 2025. Key sectors include technology, agriculture, and manufacturing. Recent tensions have focused on tariffs, intellectual property, and supply chain dependencies.",
+        "nodes": [
+            {
+                "node_id": "001a",
+                "title": "Historical Context",
+                "summary": "Evolution of trade relations from 2000 to 2025.",
+                "page_index": 2,
+                "text": "Since China's accession to the WTO in 2001, trade has grown exponentially. The 2018 trade war introduced tariffs that still partially remain. The Phase One agreement in 2020 aimed to rebalance trade, but disputes continued over technology transfer and market access.",
+                "nodes": []
+            },
+            {
+                "node_id": "001b",
+                "title": "Trade Volumes",
+                "summary": "Statistics on imports and exports.",
+                "page_index": 3,
+                "text": "In 2025, U.S. exports to China were $150 billion, while imports were $540 billion. The trade deficit remains a point of contention. Top U.S. exports include agricultural products, semiconductors, and aircraft. Chinese exports to the U.S. include electronics, machinery, and consumer goods.",
+                "nodes": []
+            }
+        ]
+    },
+    {
+        "node_id": "002",
+        "title": "Semiconductor Supply Chain Risks",
+        "summary": "Analysis of vulnerabilities in the global semiconductor supply chain and their impact on U.S.-China relations.",
+        "page_index": 5,
+        "text": "The semiconductor supply chain is highly concentrated, with Taiwan producing 60% of advanced chips and China controlling key raw materials. U.S. restrictions on exports to China have led to a fragmentation of the market. Specific risks include: 1) Geopolitical tension leading to sudden bans, 2) Natural disasters affecting key facilities, 3) Lack of diversification in manufacturing, 4) Intellectual property theft, 5) Rapid technological change outpacing investment.",
+        "nodes": [
+            {
+                "node_id": "002a",
+                "title": "Geopolitical Tensions",
+                "summary": "How political disputes create supply chain disruptions.",
+                "page_index": 6,
+                "text": "The U.S. Commerce Department has added dozens of Chinese firms to the Entity List, restricting their access to American technology. In response, China is accelerating domestic production of chips. This decoupling increases costs and delays for both countries. Experts warn of potential 'dual-use' technology conflicts that could escalate.",
+                "nodes": []
+            },
+            {
+                "node_id": "002b",
+                "title": "Natural Disaster Vulnerabilities",
+                "summary": "Impact of earthquakes, droughts, and pandemics on chip manufacturing.",
+                "page_index": 7,
+                "text": "Taiwan is prone to earthquakes, and a major quake could disrupt global chip supply for months. Similarly, water scarcity in Taiwan and drought in the southwestern U.S. affect fab operations. The COVID-19 pandemic exposed the fragility of just-in-time inventory systems.",
+                "nodes": []
+            }
+        ]
+    },
+    {
+        "node_id": "003",
+        "title": "Policy Recommendations",
+        "summary": "Suggested actions for policymakers to mitigate risks.",
+        "page_index": 10,
+        "text": "To reduce supply chain risks, the U.S. should invest in domestic semiconductor manufacturing through the CHIPS Act, diversify sourcing to allies like Japan and South Korea, and maintain open communication channels with China to prevent miscalculations. China should enhance IP protection and reduce reliance on foreign technology.",
+        "nodes": []
+    }
+]
