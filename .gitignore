@@ -1,0 +1,25 @@
+Set-Content .gitignore @"
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.python-version
+
+# Environments (Crucial!)
+.venv/
+venv/
+ENV/
+env/
+
+# Environment Variables
+.env
+.flaskenv
+
+# IDEs
+.vscode/
+.idea/
+
+# Windows
+Thumbs.db
+desktop.ini
+"@
